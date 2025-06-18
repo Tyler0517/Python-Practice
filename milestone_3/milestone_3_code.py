@@ -20,9 +20,9 @@ elif user_answer == "":
 else:
     print("Incorrect!")
 
-user_answer = input("Q3: How many players on the field in baseball?")
+user_answer = input("Q3: How many players on the field in baseball? (Write just a number")
 
-A3 = "9" and "9 players"
+A3 = "9"
 if user_answer == A3:
     print("Correct!")
 elif user_answer == "":
